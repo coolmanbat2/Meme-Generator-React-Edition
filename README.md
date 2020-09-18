@@ -43,7 +43,9 @@ You will need to refer to the React Native docs <a href="https://reactnative.dev
 
 ## Usage
 
+# Adding a new Image!
 ![](pictures/AddNewImage.gif)
 
+# Saving a new Image!
 ![](pictures/SavingImage.gif)
 
