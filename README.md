@@ -5,7 +5,7 @@ Functions the same as the previous Meme generator application, but with a couple
 2) Ability to add your own or friend images
 3) Can the memes created by you.
 
-# Requirements
+## Requirements
 
 Note: These are the requirements for building the application on React Native CLI Quickstart for iOS.
 
@@ -37,15 +37,15 @@ npx react-native run-ios
 ```
 _This command will allow you to run the app on a simulated iOS iPhone._
 
-# What if I want to run this on my own iPhone?
+## What if I want to run this on my own iPhone?
 
 You will need to refer to the React Native docs <a href="https://reactnative.dev/docs/running-on-device">here</a>
 
 ## Usage
 
-# Adding a new Image!
+### Adding a new Image!
 ![](pictures/AddNewImage.gif)
 
-# Saving a new Image!
+### Saving a new Image!
 ![](pictures/SavingImage.gif)
 
